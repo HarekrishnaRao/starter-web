@@ -12,4 +12,8 @@ Demo purpose
 
 ## Deployment
 
+This is a simple deployment.
+
 ## How To Contribute
+
+This is contribution text
